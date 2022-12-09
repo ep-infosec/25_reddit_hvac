@@ -1,0 +1,13 @@
+hvac (0.2.17-2) trusty; urgency=medium
+
+  * build with pybuild, include py3
+  * bump minimum version of requests since hvac uses response.is_redirect
+  * add debian copyright file
+
+ -- Neil Williams <neil@reddit.com>  Wed, 31 May 2017 00:01:43 -0700
+
+hvac (0.2.17-1) trusty; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Neil Williams <neil@reddit.com>  Thu, 06 Apr 2017 21:44:44 +0000
